@@ -21,3 +21,7 @@ and prints a message based on the temperature level.
 ```bash
 docker build -t random-temp-app .
 
+---
+
+## 📦 Docker Hub Image
+👉 [https://hub.docker.com/r/maifarahat/random-temp-app](https://hub.docker.com/r/maifarahat/random-temp-app)
