@@ -18,10 +18,10 @@ and prints a message based on the temperature level.
 ## 🐳 Docker Instructions
 
 ### 1. Build the Docker image
-```bash
+
 docker build -t random-temp-app .
 
----
 
-## 📦 Docker Hub Image
-👉 [https://hub.docker.com/r/maifarahat/random-temp-app](https://hub.docker.com/r/maifarahat/random-temp-app)
+## 🐳 Docker Hub Image
+👉 [Docker Hub Link](https://hub.docker.com/r/maifarahat/random-temp-app)
+
